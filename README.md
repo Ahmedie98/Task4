@@ -12,14 +12,15 @@ Text to Speech code:
 [![N|Solid](https://i.ibb.co/VtbGCSs/tts.png)](tts)
 
 
-There is a Arabic code for STT
-[![N|Solid](https://i.ibb.co/BCmvfX0/arabic-code.png)](Arabic code)
+There is a Arabic code for STT:
+![N|Solid](https://i.ibb.co/BCmvfX0/arabic-code.png)
 
 
-But the leters are backward, so i used the english again.
-[![N|Solid](https://i.ibb.co/ZdQFdhF/arabic.png)](محادثة)
+But the leters are backward, so i used the english again:
+![N|Solid](https://i.ibb.co/ZdQFdhF/arabic.png)
 
 Refrences:
+
 https://www.youtube.com/watch?v=YCyuZM454_I
 
 https://www.youtube.com/watch?v=8k8S5ruFAUs&t=522s
