@@ -13,7 +13,7 @@ Text to Speech code:
 
 
 There is a Arabic code for STT
-[![N|Solid](https://i.ibb.co/BCmvfX0/arabic-code.png)](there is an Arabic code)
+[![N|Solid](https://i.ibb.co/BCmvfX0/arabic-code.png)](Arabic code)
 
 
 But the leters are backward, so i used the english again.
